@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LCD-016M002B
+D Vishay LCD-016M002B
+$ENDCMP
+#
+$CMP WD65C22
+D Versatile Interface Adapter
+F https://www.westerndesigncenter.com/wdc/documentation/w65c22.pdf
+$ENDCMP
+#
+#End Doc Library
